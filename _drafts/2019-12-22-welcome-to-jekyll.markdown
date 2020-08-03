@@ -2,7 +2,7 @@
 title: "Welcome to Jekyll!"
 date:   2019-12-22 22:15:53 -0600
 categories:
-  - blog
+  - Blog
 tags:
   - Jekyll
   - update
