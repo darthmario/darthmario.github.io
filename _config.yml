@@ -16,10 +16,13 @@
 title: Nate Craddock
 email: nate@natecraddock.com
 description: >- # this means to ignore newlines until "baseurl:"
-  I guess this sums up my life
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
 twitter_username: darthmario
 github_username:  darthmario
 minimal_mistakes_skin: air
+search: true
 
 # Build settings
 markdown: kramdown
@@ -74,6 +77,9 @@ author:
 
 footer:
   links:
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin-square"
+      url: "https://www.linkedin.com/in/natecraddock/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/darthmario"
