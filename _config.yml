@@ -59,7 +59,7 @@ plugins:
 author:
   name   : "Nate Craddock"
   avatar : "/assets/images/nate_craddock_headshot_crop.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Media Creator, Electronics Hobyist, Solution Architect, and Speaker"
   links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin-square"
