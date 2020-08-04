@@ -19,7 +19,7 @@
     {% endif %}
     <h2 class="archive__item-title no_toc" itemprop="headline">
       {% if post.link %}
-        <a href="{{ post.link }}">{{ title }}</a> <a href="{{ post.url | relative_url }}" rel="permalink"><i class="fas fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
+        <a href="{{ post.link }}">{{ title }}</a> <i class="fas fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span>
       {% else %}
         <a href="{{ post.url | relative_url }}" rel="permalink">{{ title }}</a>
       {% endif %}
@@ -27,7 +27,7 @@
     {% if post.read_time %}
       <p class="page__meta"><i class="far fa-clock" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
-    {% if post.content %}<p class="archive__item-excerpt" itemprop="description">{{ post.content | markdownify }}</p>{% endif %}
-    permalink
+    {% if post.content %}<p class="archive__item-excerpt" itemprop="description">{{ post.content | markdownify }}<a href="{{ post.url | relative_url }}" style="font-size: .75em;" rel="permalink">permalink</a></p>{% endif %}
+    
   </article>
 </div>
