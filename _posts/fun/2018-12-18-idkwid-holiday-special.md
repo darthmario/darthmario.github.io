@@ -10,7 +10,7 @@ tags:
 
 I'm taking a brief detour from vintage computers to vintage gaming consoles for a very festive holiday special!
 
-{% include youtubePlayer.html id="elWP7GQ1-Cs" %}
+{% include video id="elWP7GQ1-Cs" provider="youtube" %}
 
 In this episode I'm documenting the gifts I'm giving my fiance... a restored & revitalized Vectrex with modern day mods and multi-carts!
 

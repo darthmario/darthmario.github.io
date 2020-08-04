@@ -8,4 +8,4 @@ tags:
 
 An oldie, but a goodie.
 
-{% include youtubePlayer.html id="YoTJZsUk9-Q" %}
+{% include video id="YoTJZsUk9-Q" provider="youtube" %}
