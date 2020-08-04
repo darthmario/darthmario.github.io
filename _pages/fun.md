@@ -4,6 +4,3 @@ layout: category
 permalink: /fun/
 taxonomy: Fun
 ---
-
-
-
