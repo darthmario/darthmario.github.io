@@ -1,7 +1,7 @@
 ---
 title: "Never Underestimate the Power of Excel to Do Things It Shouldn't"
 categories:
-  - Fun
+  - News
 tags:
   - Excel
 ---

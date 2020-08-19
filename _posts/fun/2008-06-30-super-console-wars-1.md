@@ -6,6 +6,7 @@ tags:
   - Star Wars
   - Video Games
   - Animation
+  - Video
 ---
 
  It is a period of console war. Rebel mascots, striking from an Easter egg, have won their first victory against the evil Gamepire.

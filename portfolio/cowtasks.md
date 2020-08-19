@@ -56,4 +56,4 @@ This was an early project to cut my teeth in mobile design and constraints aroun
 
 WebOS, while still around on LG TVs, is still missed.  A bit too early on the HTML apps as apps band wagon with hardware that never let it shine, however in the right hands it could be made to do some awesome things.
 
-{% include gallery caption="CowTasks for WebOS." %}
+{% include gallery %}

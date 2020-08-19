@@ -6,6 +6,7 @@ tags:
   - Star Wars
   - Video Games
   - Animation
+  - Video
 ---
 
 The original teaser trailer for super console wars.  This is old as dirt.

@@ -6,6 +6,7 @@ tags:
   - Star Wars
   - Video Games
   - Animation
+  - Video
 ---
 
 The trailer for super console wars part 1.

@@ -6,6 +6,7 @@ tags:
   - Star Wars
   - Video Games
   - Animation
+  - Video
 ---
 
 That title's a mouthful, eh? GC-PU and VM-U2, escaping the vile henchmen of the Gamepire have been stranded on the desert planet Nintendooine.

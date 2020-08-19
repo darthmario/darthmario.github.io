@@ -6,6 +6,7 @@ tags:
   - Kodak zi6
   - Six Flags
   - Magic Mountain
+  - Roller Coasters
 ---
 
 Performs pretty well for a camera under $200.  Though you'll notice lots of rolling shutter / jello cam issues heightened by the smoothcam.  I think I could have skewed those to make it look normal.  I apologize for the silliness at the end.

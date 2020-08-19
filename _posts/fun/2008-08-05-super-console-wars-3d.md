@@ -6,6 +6,7 @@ tags:
   - Star Wars
   - Video Games
   - Animation
+  - Video
 ---
 
 The epic third part in the Super Console Wars series presented in 3-d.

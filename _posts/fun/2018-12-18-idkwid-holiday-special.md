@@ -6,6 +6,7 @@ tags:
   - Vectrex
   - Video Games
   - I don't know what I'm doing
+  - Video
 ---
 
 I'm taking a brief detour from vintage computers to vintage gaming consoles for a very festive holiday special!
