@@ -6,7 +6,9 @@ tags:
   - Technology
   - Hospitality
 link: http://www.travelpulse.com/news/cruise/will-princess-cruises-future-medallion-tech-change-the-face-of-travel.html
+
 ---
+{% include figure image_path="/assets/images/100.jpeg" %}
 
 Nice overview of the OCEAN project. The platform my team has created makes a great segue into OCEAN.
 
