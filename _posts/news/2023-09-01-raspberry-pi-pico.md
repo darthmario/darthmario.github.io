@@ -16,10 +16,14 @@ Last year we did a pretty great theme based around toxic waste and mutant candy 
 
 We love the fact that you can pretty much make all of this stuff yourselves with UV paint, plater of paris, Home Depot runs, as well as some simple motors to drive the animatronics.
 
-![Full House Shot](/assets/images/halloween22/halloween1.jpg)
+<figure>
+	<a href="/assets/images/halloween22/halloween1.jpg"><img src="/assets/images/halloween22/halloween1.jpg"></a>
+</figure>
 
 We also do a custom window animations that we love to make and is something that requires the design and skills of both my wife and myself.
 
-![Window Detail Shot](/assets/images/halloween22/halloween2.jpg)
+<figure>
+	<a href="/assets/images/halloween22/halloween2.jpg"><img src="/assets/images/halloween22/halloween2.jpg"></a>
+</figure>
 
 This year we're going to do something a little different, still the same kind of goody atmostphere, but something that's a little more involved from the animatronics and staging.  
