@@ -6,6 +6,7 @@ tags:
   - Canon HV20
   - Disneyland
   - California Adventure
+  - Roller Coasters
 ---
 
 Some stuff I shot ages ago on my HV20.  Lots of goofiness etc.
