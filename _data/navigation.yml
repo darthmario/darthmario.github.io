@@ -3,8 +3,6 @@ main:
   #   url: /posts/
   # - title: "Categories"
   #   url: /categories/
-  - title: "Tags"
-    url: /tags/
   - title: "Home"
     url: /
   - title: "News"
@@ -13,3 +11,5 @@ main:
     url: /fun/
   - title: "About"
     url: /about/
+  - title: "Tags"
+    url: /tags/
